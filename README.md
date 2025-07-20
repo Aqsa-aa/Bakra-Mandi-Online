@@ -6,3 +6,8 @@ it includes a home page banner, product listings with images and prices, and nav
 
 🔗 Live Demo
 https://bakraa-mandi-online.netlify.app/
+
+if this occurs in main file
+(Sorry about that, but we can’t show files that are this big right now.)
+Than
+View raw  : to check the complete project.
